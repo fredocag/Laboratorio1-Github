@@ -1,5 +1,5 @@
-class andres-rueda {
-    public static void santiagomendozafunction () {
-        System.out.println("Funcion de Santiago Mendoza!"); 
+class andres-ruedafunction {
+    public static void andres-rueda () {
+        System.out.println("Funcion de Andrés Rueda!"); 
     }
 }
